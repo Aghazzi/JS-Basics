@@ -1,2 +1,2 @@
-var name ="Ahmad"
-alert (name)
+var name ="Ahmad";
+alert (name);
