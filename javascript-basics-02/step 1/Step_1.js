@@ -1,4 +1,4 @@
 var image = document.querySelector("img");
-image.addEventListener("mouseover", function(){
+image.onmouseover=()=>{
     image.src = "images/image1_2.jpg"
-});
+};
